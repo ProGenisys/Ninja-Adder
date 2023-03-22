@@ -1,8 +1,6 @@
 # Ninja Adder
 
-  <img src="https://github.com/ProGenisys/Ninja-Adder/blob/main/Ninja-Adder.png" />
-
-  Ninja Adder is a *Free python script* that can help you to scrap members from any telegram channel or group and add then to your group with using all your telegram accounts. You only need to add your accounts in the script and start using it.
+ Ninja Adder is a *Free python script* that can help you to scrap members from any telegram channel or group and add then to your group with using all your telegram accounts. You only need to add your accounts in the script and start using it.
 
 For Any Query Please Contact Us Through Following Ways ~~ 
 
